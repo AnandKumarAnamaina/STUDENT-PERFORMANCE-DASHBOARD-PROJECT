@@ -199,4 +199,9 @@ It focuses on practical learning and helps develop analytical thinking.
 
 ## Author: <A.Anand Kumar> 
 From cells to insights ✨ | Guided as part of a Data Analytics learning journey.
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/anand-kumar-anamaina-50041a290
+
+
+<img width="935" height="725" alt="Dashboard" src="https://github.com/user-attachments/assets/04bb2be5-0c94-4448-a467-52b6c215b5f5" />
+
+<img width="1069" height="663" alt="PIVOT ANALYSIS" src="https://github.com/user-attachments/assets/36634af6-d1b2-4d59-ae02-547417f4675c" />
